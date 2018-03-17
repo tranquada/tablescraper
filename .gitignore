@@ -39,4 +39,4 @@ Temporary Items
 # End of https://www.gitignore.io/api/macos,jupyternotebook
 
 # Ignore CSV files created in testing
-.csv
+*.csv
